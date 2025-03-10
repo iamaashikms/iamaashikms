@@ -1,4 +1,57 @@
-### Hi there 👋
+
+### 👋 Hi, I'm Aashik 
+
+🚀 **Innovation Engineer | Embedded Systems & AI Enthusiast | SAFe 6 Certified Scrum Master**  
+🎓 **M.Sc. Electrical Engineering | Universität Stuttgart**  
+🌍 Based in **Stuttgart, Germany**  
+
+---
+
+## 🔧 Tech Skills & Expertise
+- **Programming & Development**: React, .NET, C#, JavaScript, Python  
+- **Web & Cloud Technologies**: Azure Cloud, Azure Web Apps, RESTful APIs  
+- **3D & Metaverse Development**: Unity, Blender  
+- **AI & Embedded Systems**: Sensor Fusion, Autoware, Robotics  
+- **Databases**: SQL  
+- **Version Control**: Git & GitHub  
+
+---
+
+## 💡 Work Experience
+- **Associate 2, Ernst & Young (2021 - 2024)**  
+  - Developed & maintained **React**-based web applications.  
+  - Built RESTful APIs with **.NET 6** & SQL databases.  
+  - Experimented with **multimodal language models** & AI-driven applications.  
+  - Created 20+ virtual meeting spaces in the **Metaverse** using Unity & Blender.  
+
+- **Bachelor Thesis - Sensor Fusion for Self-Driving Cars (2020 - 2021)**  
+  - Integrated sensor data using **Autoware** for autonomous vehicles.  
+  - Conducted **LiDAR-Camera calibration** and developed path-planning solutions.  
+
+---
+
+## 📌 Projects
+🔹 [Smart Classroom Automation](https://github.com/iamaashikms/Design_project2019) - IoT-based classroom automation with NodeMCU  
+🔹 [Personal Portfolio](https://github.com/iamaashikms/iamaashikms.github.io) - Showcasing my projects and skills  
+
+---
+
+## 🎓 Certifications & Achievements
+- **SAFe 6 Scrum Master Certified**  
+- **Microsoft Azure Fundamentals - AZ 900**  
+- **Special Prize - TEKON KTU Tech Fest for "Humanoid Teaching Robot"**  
+- **Spot Award - EY GDS for exceptional contribution**  
+
+---
+
+## 📫 Connect with Me
+[🌐 Portfolio Website](https://iamaashikms.github.io/)  
+[💼 LinkedIn](https://in.linkedin.com/in/aashikms)  
+📧 Email: msaashikms@gmail.com  
+
+---
+
+💻 Open to collaborations in **AI, embedded systems, and innovative tech solutions!** Let's build something amazing. 🚀
 
 ### 🧰 Languages and Tools
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
