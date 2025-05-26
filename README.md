@@ -1,7 +1,7 @@
 
 ### 👋 Hi, I'm Aashik 
 
-🚀 **Innovation Engineer | Embedded Systems & AI Enthusiast | SAFe 6 Certified Scrum Master**  
+🚀 ** Signal Processing  & Applied Mathematics Enthusiast | SAFe 6 Certified Scrum Master | Innovation Engineer |**  
 🎓 **M.Sc. Electrical Engineering | Universität Stuttgart**  
 🌍 Based in **Stuttgart, Germany**  
 
